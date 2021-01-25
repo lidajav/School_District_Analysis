@@ -26,7 +26,7 @@ The project will replace all the reading and math grades for nine grades in Thom
     
      **The District Summary for all Schools**
     
-    ![Destrict summary for all grades](Resources/distric_summary.png) 
+    ![Destrict summary for all grades](Resources/district_summary.png) 
     
     
 ## Summary :
