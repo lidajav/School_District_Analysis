@@ -13,7 +13,7 @@ The project will replace all the reading and math grades for nine grades in Thom
 
 **New Distric Summary after removing scores in grade 9 at thomas High School**
 
-![New School_summary]()
+![New School_summary](Resources/school_summay_new.png)
 
 **Distric Summary for all schools**
 
