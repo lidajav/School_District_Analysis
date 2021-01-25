@@ -22,7 +22,7 @@ The project will replace all the reading and math grades for nine grades in Thom
     
     **The District Summary after replacing scores for great nine at Thomas School**
     
-    ![District Summary after replacing grade 9th scores by NaN](Resources/new_district_summary.png)
+    ![District Summary after replacing grade 9th scores by NaN](Resources/district_summary_new.png)
     
      **The District Summary for all Schools**
     
