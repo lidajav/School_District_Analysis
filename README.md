@@ -9,7 +9,7 @@ The project will replace all the reading and math grades for nine grades in Thom
 
 ## Results:
 
-- The District summary for all 15 schools was affcted as the math and reading scores of 461 students in grade 9 in Thomas High school were removed (replaced by NaN).The total average math and reading show decrease of less than 1%.
+- The District summary for all 15 schools was affcted as the math and reading scores of 461 students in grade 9 in Thomas High school were removed (replaced by NaN).The % passing for math, reading and overall show decrease as a total. 
 
 **New Distric Summary after removing scores in grade 9 at thomas High School**
 
@@ -19,7 +19,12 @@ The project will replace all the reading and math grades for nine grades in Thom
 
 ![School_summary](Resources/school_summary.png)
 
-The school summary was affected by a decrease in math score avaerage and increase in reading average. 
+- The school summary was affected by also decrease in % passing math, reading and overall.  
+
+**The New School summary for Thomas School**
+
+
+**The School Summary for Thomas School before removing grade 9**
       
 - The math score in Thomas school had a decrease but the reading score increased in Thomas High school compared to other schools. 
 
