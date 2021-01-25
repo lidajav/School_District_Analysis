@@ -29,7 +29,7 @@ The project will replace all the reading and math grades for nine grades in Thom
 
 ![Thomas school including 9 grade](Resources/Thomas_school.png)
       
-- The math score in Thomas school had a decrease but the reading score increased in Thomas High school compared to other schools. 
+- The average math score in Thomas school had a decrease but the reading score increased in Thomas High school compared to other schools. 
 
 - replacing the ninth-grade scores affect the following :
 
