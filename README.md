@@ -23,8 +23,11 @@ The project will replace all the reading and math grades for nine grades in Thom
 
 **The New School summary for Thomas School**
 
+![Thomas school excluding 9 grade](Resources/Thomas_school_new.png)
 
 **The School Summary for Thomas School before removing grade 9**
+
+![Thomas school including 9 grade](Resources/Thomas_school.png)
       
 - The math score in Thomas school had a decrease but the reading score increased in Thomas High school compared to other schools. 
 
