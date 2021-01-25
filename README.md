@@ -9,29 +9,25 @@ The project will replace all the reading and math grades for nine grades in Thom
 
 ## Results:
 
-- The total number of votes were : 369,711
-- There were a total of 3 counties for this count. 
+- The District summary for all 15 schools was affcted as the math and reading scores of 461 students in grade 9 in Thomas High school were removed (replaced by NaN).The total average math had a decrease and reading score had an increase of less than 1%.
 
-    ![Breakdown of County votes](Resources/County_votes.png) 
-  
-- The county with the most popular votes was **Denver**
-- This were a total of three candidates received voted for this election.
-
-    ![Breakdown of candidates' votes](Resources/Candidate_votes.png)
+    ![District Summary after replacing grade 9th scores by NaN](Resources/.png) 
+    ![Destrict summary for all grades](Resources/.png) 
     
-- The winning candidate was Diana DeGette
+- The math score in Thomas school had a decrease but the reading score increased in Thomas High school compared to other schools. Since the aveages for math and reading has been up after removing the scores for grade nine shows those scores for grade nine might have been low.
 
-## Election-Audit Summary :
+- replacing the ninth-grade scores affect the following :
 
-We can modify the code to pass the file names and folders as variables to open files for read and write.
-Below is the modified code.
-
-![change the open files by accepting variables instaed of string](Resources/modifying_code_files.png)
-
-We can also go further by accepting the output file by getting it from the user
-
-![Accepting outputfile from user](Resources/modifying_code_outputfile.png)
-
-We can also add the winning county percentage and total votes to display.(The codes are identified as comments)
-
-![Add more metrics to winning county](Resources/modifying_code_winning_couty.png)
+    - Math scores decreased and reading scores increased which means the math score for 9th grade were higher and reading scores for them were lower.
+    - There were only changes in spending range of $630-$644 schools.The math scores had a decrease and the reading scores had an increase of less than 1%
+    - We only saw changes on math and reading scores in medium size schools. math score had a decrease and reading had an increase. 
+    - There was no change in District type schools as Thomas high school was a charter type. The math scores in charter schools had again a decrease and reading had an increase by less than 1%
+   
+    
+## Summary :
+- We changed the student_data_df by replacing math and reading scores of ninth grade in Thomas school by NaN which was assigned by np.nan from Numpy library
+- We calculated a new count for students as 461 belonged to grade nine at Thomas school
+- We recaluculated the avearge of math , reading and % passing scores for math, reading and both
+- we used loc function to retrieve records from data frame using multiple conditions
+- 
+  
