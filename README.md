@@ -29,11 +29,11 @@ The project will replace all the reading and math grades for nine grades in Thom
 
 ![Thomas school including 9 grade](Resources/Thomas_school.png)
       
-- The average math score in Thomas school had a decrease but the reading score increased in Thomas High school compared to other schools. 
+- Removing the grade 9 from Thomas High School increased the percentage of passing for math, reading and overall compared to other schools.. 
 
 - replacing the ninth-grade scores affect the following :
 
-    - Math scores decreased and reading scores increased which means the math score for 9th grade were higher and reading scores for them were lower.
+    - The math scores decreased and reading scores increased which means the math score for 9th grade were higher and reading scores for them were lower.
     - There were only changes in spending range of $630-$644 schools.The math scores had a decrease and the reading scores had an increase of less than 1%
     - We only saw changes on math and reading scores in medium size schools. math score had a decrease and reading had an increase. 
     - There was no change in District type schools as Thomas high school was a charter type. The math scores in charter schools had again a decrease and reading had an increase by less than 1%
