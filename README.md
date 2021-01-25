@@ -17,7 +17,7 @@ The project will replace all the reading and math grades for nine grades in Thom
 
 **Distric Summary for all schools**
 
-![School_summary]()
+![School_summary](Resources/school_summary.png)
 
 The school summary was affected by a decrease in math score avaerage and increase in reading average. 
       
