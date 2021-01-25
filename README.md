@@ -20,11 +20,11 @@ The project will replace all the reading and math grades for nine grades in Thom
     - We only saw changes on math and reading scores in medium size schools. math score had a decrease and reading had an increase. 
     - There was no change in District type schools as Thomas high school was a charter type. The math scores in charter schools had again a decrease and reading had an increase by less than 1%
     
-    ** The District Summary after replacing scores for great nine at Thomas School **
+    **The District Summary after replacing scores for great nine at Thomas School**
     
     ![District Summary after replacing grade 9th scores by NaN](Resources/new_district_summary.png)
     
-     ** The District Summary for all Schools **
+     **The District Summary for all Schools**
     
     ![Destrict summary for all grades](Resources/distric_summary.png) 
     
